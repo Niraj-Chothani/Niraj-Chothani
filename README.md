@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj-Chothani</h1>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-chothani" /> </p>
 
